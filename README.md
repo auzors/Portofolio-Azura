@@ -10,7 +10,7 @@ I'm interested in exploring technology, particularly in networking, IoT, softwar
 Internet Technology Engineering  
 Sekolah Vokasi
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 - **Networking:** Network Configuration and Troubleshooting
 - **IoT:** ESP32, Arduino Uno and Sensor Integration
